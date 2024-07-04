@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "standard",
+    "plugin:react/recommended",
+    "plugin:tailwindcss/recommended",
+    "prettier"
+  ]
+}
